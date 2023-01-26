@@ -13,7 +13,8 @@ Langkah Langkah Proses installasi:
 
 1. Lakukan installasi Xampp pada PC anda ( https://www.filehorse.com/download-xampp-portable/74764/?amp )
 2. install git pada pc anda ( https://gitforwindows.org/ )
-3. Lakukan Config global <code>git config --global user.name "username"
+3. Lakukan Config global 
+<code>git config --global user.name "username"
 git config --global user.email example@example.com</code>
 4. Buka File Explorer dan pindah pada Directory C:\xampp\htdocs\ 
 5. Clonning repository dengan cara : git clone ( https://github.com/OmTegar/Web-Dinamis-Produktif.git )
