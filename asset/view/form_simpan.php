@@ -13,7 +13,7 @@
 
         <section class="base">
           <div>
-            <label>Nama</label>
+            <label>Nama</label> 
             <input type="text" name="nama" />
           </div>
           <div>
